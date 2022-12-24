@@ -274,26 +274,20 @@ Kondisi 0 yaitu ketika sensor tidak mendeteksi guncangan, led hijau padam dan le
 ```
 
 ### Upload program ke arduino
-1. Buka Software Arduino IDE  
-Hasil akhir alat akan terlihat seperti gambar dibawah ini:  
+1. Buka Software Arduino IDE   
 ![membuka software](/assets/img/memprogram_uno/1.png)  
 1. Buat Program, Kemudian simpan program yang telah dibuat  
-Hasil akhir alat akan terlihat seperti gambar dibawah ini:  
 ![simpan program](/assets/img/memprogram_uno/2.png)  
 1. Sambungkan arduino ke komputer/laptop/PC  
-Hubungkan arduino ke komputer/laptop/PC yang telah di instal software Arduino IDE menggunakan kabel USB.  
-Hasil akhir alat akan terlihat seperti gambar dibawah ini:  
+Hubungkan arduino ke komputer/laptop/PC yang telah di instal software Arduino IDE menggunakan kabel USB.   
 ![menyambung arduino dengan usb type b](/assets/img/memprogram_uno/3.jpg)  
 1. Verifikasi program  
 Periksa terlebih dahulu apakah program yang dibuat sudah benar dan sesuai. Jika sudah sesuai maka tidak terdapat error pada bagian outputnya. 
-Hasil akhir alat akan terlihat seperti gambar dibawah ini:  
 ![verifikasi program](/assets/img/memprogram_uno/4.png)  
 1. Upload program  
 Pastikan board arduino yang dipilih sudah benar.  
-Hasil akhir alat akan terlihat seperti gambar dibawah ini:  
 ![memastikan board benar](/assets/img/memprogram_uno/5.png)  
-Untuk mengupload program ke arduino, klik tombol tanda panah.  
-Hasil akhir alat akan terlihat seperti gambar dibawah ini:  
+Untuk mengupload program ke arduino, klik tombol tanda panah.   
 ![upload program](/assets/img/memprogram_uno/6.png)  
 
 ## Hasil Pengujian dan Analisis
