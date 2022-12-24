@@ -8,13 +8,12 @@
 
 Mata Kuliah: Organisasi dan Arsitektur Komputer  
 Disusun Oleh:  
-Ahmad Maulidi Roofiad `1197050009`  
-Muhammad Rihap Firdaus `1217050102`  
-Nasywah Darraini `1217050109`  
-Reski Firmansyah `1217050119`  
-Wildan Fathu Rijan `1217050141`  
-Yandiyan `1217050144`  
-
+- Ahmad Maulidi Roofiad `1197050009`  
+- Muhammad Rihap Firdaus `1217050102`  
+- Nasywah Darraini `1217050109`  
+- Reski Firmansyah `1217050119`  
+- Wildan Fathu Rijan `1217050141`  
+- Yandiyan `1217050144`  
 
 ## Daftar Isi
 
